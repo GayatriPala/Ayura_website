@@ -1,0 +1,12 @@
+/* Webfont: Benpark-Regular */@font-face {
+    font-family: 'Benpark';
+    src: url('Benpark.eot'); /* IE9 Compat Modes */
+    src: url('Benpark.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Benpark.woff') format('woff'), /* Modern Browsers */
+         url('Benpark.woff2') format('woff2'), /* Modern Browsers */
+         url('Benpark.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
